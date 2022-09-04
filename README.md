@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h4>
     hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"/>
   </h4>
   <h1>I'm Josué Munganga</h1>
   <div id="badges">
