@@ -19,9 +19,9 @@
 
 Some keypoints about me:
 
-- 🔭 I'm a Full Stack Web Developer, My actual tech stack is React/Node.js & Next.js
-- 🌱 I'm learning AWS cloud development and TypeScript
-- 👯 I’m looking to collaborate on web application projects ranging from E-commerce, Fintech, SaaS, etc.
-- 🤔 I'm interested in FUll Stack, Node.js or Frontend React Developer role.
-- 💬 Ask me about JavaScript, React.js, Next.js, Nodejs/Express, Apollo GraphQL, RESTful APIs and shortly we should talk about TypeScript, etc.
-- 📫 You can text me via email at jmunganga039@gmail.com or WhatsApp at +25769888643
+- 🔭 I'm a Full Stack Software Engineer. My current tech stack includes React/Node.js, Next.js, React-Native and PHP/Laravel
+- 🌱 I've recently finished the Udacity's Cloud Developer Nano Degree and started using TypeScript on most of my projects
+- 👯 I’m looking to collaborate on Web and cross plateform mobile application projects ranging from E-commerce, Fintech to data rich SaaS, etc.
+- 🤔 I'm interested in Full Stack, Node.js or Frontend React Developer role.
+- 💬 Ask me about JavaScript, React.js, Next.js, Nodejs/Express, Apollo GraphQL, RESTful Apis, TypeScript, Amazon Web Services, JAMStack, MERN Stack, Laravel, React-Nativeetc.
+- 📫 You can text me via email at jmunganga039@gmail.com or WhatsApp at +243810941453
